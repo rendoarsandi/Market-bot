@@ -2,7 +2,7 @@
 
 RL agents that exploit information lag between fast markets (Binance futures) and slow markets (Polymarket prediction markets) through real-time multi-source state fusion.
 
-**[View the presentation (PDF)](RL_Trading_Agents_Fusion_Breakthrough.pdf)**
+**[View the presentation (PDF)](cross-market-state-fusion.pdf)**
 
 ## What This Is
 
